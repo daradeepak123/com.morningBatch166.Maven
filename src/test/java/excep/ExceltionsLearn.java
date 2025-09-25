@@ -23,8 +23,15 @@ public class ExceltionsLearn {
 		}
 		
 		
+		int aa[]=new int[6];
 		
-		
+		try {
+		aa[6]=500;
+		}
+		catch(IndexOutOfBoundsException e)
+		{
+			
+		}
 		System.out.println(a+b);
 
 		System.out.println(a-b);
