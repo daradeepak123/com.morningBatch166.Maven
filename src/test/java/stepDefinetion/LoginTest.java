@@ -36,12 +36,4 @@ public class LoginTest extends OpenBroswer{
 	    
 	    o.quitDriver(driver);
 	}
-
-
-	
-	
-	
-	
-	
-
 }
